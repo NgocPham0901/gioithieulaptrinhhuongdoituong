@@ -1,7 +1,8 @@
-1.Tính đa hình(polymorphism) là một đặng trưng của lập trình hướng đối tượng (OOP), cho phép cùng một tên phương thức nhưng có thể thực hiện nững hành động khác nhau tùy vào đối tượng được gọi
+7.Tính đa hình(polymorphism): 
+Là một đặng trưng của lập trình hướng đối tượng (OOP), cho phép cùng một tên phương thức nhưng có thể thực hiện nững hành động khác nhau tùy vào đối tượng được gọi
   +Nạp chồng phương thức (overloading):các phương thức cùng tên nhưng khác số lượng hoặc kiểu tham số 
   +Ghi đè phương thức (overloading): lớp con định nghĩa lại phương thức của lớp cha để thực hiện theo cách riêng
   +Cách hoạt động: khi gọi một phương thức, chương trình sẽ xác định phương thức phù hợp dựa trên đối tượng và kiểu tham số
 => Ý nghĩa: giúp chương trình linh hoạt, dễ mở rộng và dễ bảo trì, vì cùng một cách gọi nhưng mỗi đối tượng có thể có cách xử lí khác nhau
-2.Thành phần public: 
-là thành phần của lớp có thể được truy cập từ bên trong và bên ngoài lớp. Thường dùng cho các phương thức mà đối tượng bên noài cần sử dụng
+8.Thành phần public: 
+Là thành phần của lớp có thể được truy cập từ bên trong và bên ngoài lớp. Thường dùng cho các phương thức mà đối tượng bên noài cần sử dụng
