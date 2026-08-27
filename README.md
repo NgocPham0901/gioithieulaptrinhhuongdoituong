@@ -1,4 +1,5 @@
-Khái niệm về sự đóng gói (Encapsulation) là nguyên lý gom chung dữ liệu (thuộc tính) và các hàm xử lý dữ liệu đó (phương thức) vào bên trong một đơn vị duy nhất gọi là lớp, đồng thời che dấu sự cài đặt bên trong của phương thức, cho phép che dấu dữ liệu bên trong của đối tượng, cho phép hạn chế tối đa việc sửa lại mã chương trình.
+9.Khái niệm về sự đóng gói (Encapsulation): 
+Là nguyên lý gom chung dữ liệu (thuộc tính) và các hàm xử lý dữ liệu đó (phương thức) vào bên trong một đơn vị duy nhất gọi là lớp, đồng thời che dấu sự cài đặt bên trong của phương thức, cho phép che dấu dữ liệu bên trong của đối tượng, cho phép hạn chế tối đa việc sửa lại mã chương trình.
 Lợi ích chính của sự đóng gói:
 Bảo mật dữ liệu: Ngăn chặn truy cập trái phép vào các thành phần bên trong.
 Tăng tính linh hoạt: Dễ dàng thay đổi logic bên trong mà không ảnh hưởng đến mã bên ngoài.
@@ -17,7 +18,7 @@ Bạn không thể tự ý nhét tay vào két sắt hay tự sửa số dư tà
 Muốn lấy tiền hoặc xem số dư, bạn phải thông qua các giao dịch tại quầy hoặc cây ATM (các nút bấm, giao diện).
 Các thao tác đó kiểm tra xem bạn có đủ tiền hay mật khẩu đúng không rồi mới thay đổi số dư.
 
-Ưu điểm của OOP:
+10. Ưu điểm của OOP:
 Tái sử dụng mã nguồn: Tính kế thừa cho phép tận dụng lại các đoạn code đã viết mà không cần lặp lại.
 Dễ bảo trì và nâng cấp: Mã được chia thành các đối tượng độc lập giúp việc sửa lỗi hoặc thêm tính năng mới dễ dàng hơn.
 Tính bảo mật cao: Tính đóng gói giúp ẩn đi dữ liệu bên trong và chỉ cho phép truy cập qua các phương thức được định nghĩa.
