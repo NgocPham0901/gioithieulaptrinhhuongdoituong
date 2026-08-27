@@ -1,10 +1,7 @@
-# gioithieulaptrinhhuongdoituong
-Giới thiệu về lập trình hướng đối tượng
-Bảng phân công nhiệm vụ:
-| STT | Họ và tên | Tên nhánh | Nhiệm vụ phân công |
-| --- | --- | --- | --- |
-| 1 | Phạm Trần Thái Ngọc | `main` / `nhanh-leader` | Tạo repository, viết README, giới thiệu tổng quan về OOP, quản lý và tổng hợp bài |
-| 2 | Nguyễn Thị Bích Ngọc | `nhanh-khainiem` | Tìm hiểu khái niệm OOP |
-| 3 | Nguyễn Thảo Nhi | `nhanh-donggoi-truutuong` | Tìm hiểu Tính đóng gói và tính trừu tượng |
-| 4 | Trần Thảo Nhi | `nhanh-kethua-dahinh` | 	Tìm hiểu Tính kế thừa và Tính đa hình |
-| 5 | Lê Diễm Quỳnh | `nhanh-uudiem-vidu` | Tìm hiểu Ưu/Nhược điểm của OOP & Viết ví dụ code minh họa |
+1.Tính đa hình(polymorphism) là một đặng trưng của lập trình hướng đối tượng (OOP), cho phép cùng một tên phương thức nhưng có thể thực hiện nững hành động khác nhau tùy vào đối tượng được gọi
+  +Nạp chồng phương thức (overloading):các phương thức cùng tên nhưng khác số lượng hoặc kiểu tham số 
+  +Ghi đè phương thức (overloading): lớp con định nghĩa lại phương thức của lớp cha để thực hiện theo cách riêng
+  +Cách hoạt động: khi gọi một phương thức, chương trình sẽ xác định phương thức phù hợp dựa trên đối tượng và kiểu tham số
+=> Ý nghĩa: giúp chương trình linh hoạt, dễ mở rộng và dễ bảo trì, vì cùng một cách gọi nhưng mỗi đối tượng có thể có cách xử lí khác nhau
+2.Thành phần public: 
+là thành phần của lớp có thể được truy cập từ bên trong và bên ngoài lớp. Thường dùng cho các phương thức mà đối tượng bên noài cần sử dụng
