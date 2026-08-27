@@ -7,4 +7,4 @@ Bảng phân công nhiệm vụ:
 | 2 | Nguyễn Thị Bích Ngọc | `nhanh-truutuong` | Tìm hiểu trừu tượng hóa đối tượng theo chức năng và Trừu tượng hóa đối tượng theo dữ liệu |
 | 3 | Nguyễn Thảo Nhi | `nhanh-kethua` | Tìm hiểu Tính kế thừa và thành phần private|
 | 4 | Trần Thảo Nhi | `nhanh-dahinh` | 	Tìm hiểu Tính đa hình và thành phần public |
-| 5 | Lê Diễm Quỳnh | `nhanh-uudiem-vidu` | Tìm hiểu Ưu/Nhược điểm của OOP & Viết ví dụ code minh họa |
+| 5 | Lê Diễm Quỳnh | `nhanh-donggoi` | Tìm hiểu đóng gói và viết ưu&nhược điểm của OOP |
