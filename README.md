@@ -44,7 +44,7 @@ Ví dụ, mỗi ô tô là một đối tượng, chung các hành động:
 +Có thể tự động phát tín hiệu báo động.
 
 4. Trừu tượng hóa đối tượng theo dữ liệu
-+ Khái niệm: là quá trình mô hình hóá các thuộc tính của lớp dựa trên các thuộc tính của các đối tượng tương ứng.
+Khái niệm: là quá trình mô hình hóá các thuộc tính của lớp dựa trên các thuộc tính của các đối tượng tương ứng.
 -Ví dụ, mỗi ô tô là một đối tượng có chung các thuộc tính:
 +nhãn hiệu
 +màu sắc
